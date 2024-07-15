@@ -1,16 +1,30 @@
-## Hi there 👋
+<img src = "img-giphy.git.gif" width = "325px" align = "right">
 
-<!--
-**FernandaSaliba/FernandaSaliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ❤ Fala pessoaal! como é bom compartilhar conhecimento.
 
-Here are some ideas to get you started:
+Sou Analista de Sistemas e estudante de Análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤ Estudante de pós graduação em Análise de dados
+- 💙 Fã da AWS
+- 👩‍💻 Aprendendo sobre inteligência artificial - redes neurais
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=8Y4JscIL3dtp&format=png&color=000000" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=RO6Tm3NdrSGE&format=png&color=000000" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40" height="40"/>
+
+
+---
+
+  <div id="badges">
+  <a href = "http://linkedin.com/in/fernanda-santos-saliba">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="fernandasantossaliba@gmail.com?subject=subject text"> 
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</div>
