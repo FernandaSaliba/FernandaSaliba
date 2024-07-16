@@ -28,3 +28,11 @@ Sou Analista de Sistemas e estudante de Análise de dados.
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
+
+---
+
+<div align = "center">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasaliba&show_icons=true&theme=cobalt&count_private=true"/>
+
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=fernandasaliba&show_icons=true&show_icons=true&theme=cobalt&count_private=true" />
+</div>
