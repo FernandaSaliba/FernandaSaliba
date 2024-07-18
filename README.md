@@ -1,6 +1,6 @@
 <img src = "img-giphy.git.gif" width = "325px" align = "right">
 
-# ❤ Fala pessoaal! como é bom compartilhar conhecimento.
+# ❤ Fala pessoal! como é bom compartilhar conhecimento.
 
 Sou Analista de Sistemas e estudante de Análise de dados.
 
