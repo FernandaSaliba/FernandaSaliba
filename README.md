@@ -23,13 +23,11 @@ atualmente estou atuando como desenvolvedora mobile.
 
 
 ---
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/FernandaSaliba">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaSaliba&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-  <a href="https://github.com/FernandaSaliba">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaSaliba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+<a href="https://github.com/FernandaSaliba">
+  <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaSaliba&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+<a href="https://github.com/FernandaSaliba">
+  <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=FernandaSaliba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 
 ---
