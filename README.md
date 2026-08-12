@@ -12,7 +12,6 @@ atualmente estou atuando como desenvolvedora mobile.
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/df0dba34-804e-425e-a282-5190724cd730" />&nbsp;
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c08dc266-e54e-420c-9733-6f425e649648" />&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1e61a208-a1a3-4acd-a157-462b6d7b0445" />&nbsp;
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f82425e7-47fe-4236-8ce5-38bd16c0e71a" />&nbsp;
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5af9574d-59fa-4a3d-b8eb-671865515f41" />&nbsp;
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7bd61e7e-f4b9-4304-be92-5d5ce3087824" />&nbsp;
