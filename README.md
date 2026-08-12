@@ -16,7 +16,8 @@ atualmente estou atuando como desenvolvedora mobile.
 <img width="40" height="40" alt="image" title="android studio" src="https://github.com/user-attachments/assets/5af9574d-59fa-4a3d-b8eb-671865515f41" />&nbsp;
 <img width="40" height="40" alt="image" title="visual studio" src="https://github.com/user-attachments/assets/7bd61e7e-f4b9-4304-be92-5d5ce3087824" />&nbsp;
 <img width="40" height="40" alt="image" title="flutter" src="https://github.com/user-attachments/assets/885d2b6c-56e0-4680-9f11-8038a348b7e5" />&nbsp;
-<img width="40" height="40" alt="image" title="kotlin" src="https://github.com/user-attachments/assets/3c32f750-0149-468c-a047-36b0830e683d" />
+<img width="40" height="40" alt="image" title="kotlin" src="https://github.com/user-attachments/assets/b157cf89-5842-495f-b900-87be4aef097c" />
+
 
 
 
