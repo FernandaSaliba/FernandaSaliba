@@ -23,12 +23,8 @@ atualmente estou atuando como desenvolvedora mobile.
 
 ---
 
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/<user>/<gist-ID>/raw/test.json)
 
 ---
 
-<div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasaliba&show_icons=true&theme=cobalt&count_private=true"/>
-
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=fernandasaliba&show_icons=true&show_icons=true&theme=cobalt&count_private=true" />
+username=fernandasaliba&show_icons=true&show_icons=true&theme=cobalt&count_private=true" />
 </div>
