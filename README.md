@@ -23,15 +23,7 @@ atualmente estou atuando como desenvolvedora mobile.
 
 ---
 
-
-  <div id="badges">
-  <a href = "http://linkedin.com/in/fernanda-santos-saliba">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="fernandasantossaliba@gmail.com?subject=subject text"> 
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-</div>
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/<user>/<gist-ID>/raw/test.json)
 
 ---
 
