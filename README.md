@@ -26,5 +26,3 @@ atualmente estou atuando como desenvolvedora mobile.
 
 ---
 
-username=fernandasaliba&show_icons=true&show_icons=true&theme=cobalt&count_private=true" />
-</div>
