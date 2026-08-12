@@ -10,12 +10,12 @@ atualmente estou atuando como desenvolvedora mobile.
 - 👩‍💻 Aprendendo sobre inteligência artificial - redes neurais
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/df0dba34-804e-425e-a282-5190724cd730" />&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c08dc266-e54e-420c-9733-6f425e649648" />&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f82425e7-47fe-4236-8ce5-38bd16c0e71a" />&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5af9574d-59fa-4a3d-b8eb-671865515f41" />&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7bd61e7e-f4b9-4304-be92-5d5ce3087824" />&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/885d2b6c-56e0-4680-9f11-8038a348b7e5" />
+<img width="40" height="40" alt="image" title="css" src="https://github.com/user-attachments/assets/df0dba34-804e-425e-a282-5190724cd730" />&nbsp;
+<img width="40" height="40" alt="image" title="python" src="https://github.com/user-attachments/assets/c08dc266-e54e-420c-9733-6f425e649648" />&nbsp;
+<img width="40" height="40" alt="image" title="java" src="https://github.com/user-attachments/assets/f82425e7-47fe-4236-8ce5-38bd16c0e71a" />&nbsp;
+<img width="40" height="40" alt="image" title="android studio" src="https://github.com/user-attachments/assets/5af9574d-59fa-4a3d-b8eb-671865515f41" />&nbsp;
+<img width="40" height="40" alt="image" title="visual studio" src="https://github.com/user-attachments/assets/7bd61e7e-f4b9-4304-be92-5d5ce3087824" />&nbsp;
+<img width="40" height="40" alt="image" title="flutter" src="https://github.com/user-attachments/assets/885d2b6c-56e0-4680-9f11-8038a348b7e5" />
 
 
 
